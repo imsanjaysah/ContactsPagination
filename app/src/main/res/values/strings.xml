@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactsPagination</string>
+    <string name="contacts_empty">No contacts available</string>
+</resources>
